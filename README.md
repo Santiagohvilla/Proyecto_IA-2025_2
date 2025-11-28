@@ -13,6 +13,7 @@ Programa: Ingeniería Mecánica
 https://www.youtube.com/watch?v=-bPeL9sSCPU
 
 Preprocesado A : preprocesado inicial (Entrega 2)
+
 Preprocesado B : Se eliminan columnas de baja correlación ('F_TIENELAVADORA','E_PAGOMATRICULAPROPIO')
 
-#VIDEO ENTREGA FINAL:
+#VIDEO ENTREGA FINAL: https://www.youtube.com/watch?v=yKf-4sYfhb0
